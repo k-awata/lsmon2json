@@ -11,7 +11,7 @@ go install github.com/k-awata/lsmon2json@latest
 ## Usage
 
 ```bat
-lsmon <host_name> | lsmon2json > output.json
+lsmon [Server-host] | lsmon2json > output.json
 ```
 
 ## License
